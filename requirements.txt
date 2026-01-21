@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+pandas
+Pillow
+httplib2==0.22.0
+pyparsing==2.4.7
